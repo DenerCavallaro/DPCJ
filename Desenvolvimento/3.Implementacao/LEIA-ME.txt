@@ -1,0 +1,2 @@
+Os códigos estão disponíveis em GladArena/Assets/codigo.
+ Leia o guia de implantação
